@@ -1,0 +1,26 @@
+{
+  "name": "import-sqldumpdotsql",
+  "version": "1.0.9",
+  "description": "use to import mysql dumb to your database",
+  "main": "index.js",
+  "author": "Vivek Narayan Ram",
+  "license": "ISC",
+  "keywords": [
+    "sql dumb import",
+    "mysql",
+    "import ",
+    "mysql query execute",
+    "insert mysql query"
+  ],
+  "contributors": [
+    {
+      "name": "Vivek Narayan Ram",
+      "email": "narayanvivek71@gmail.com"
+    }
+   
+  ],
+  "dependencies": {
+    "async": "^3.2.0",
+    "mysql": "^2.18.1"
+  }
+}
